@@ -1,0 +1,8 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.section-bg{
+    background-image: url('https://themewant.com/products/wordpress/kester/wp-content/uploads/2023/06/12_gallary-1.png');
+}
